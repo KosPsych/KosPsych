@@ -14,7 +14,7 @@ I have a MEng from the National And Technical University of Athens and have work
 
 #### 🛠️ Languages and Tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,tensorflow,opencv,flask,fastapi,docker,postgres,mysql,kubernetes,git,ubuntu,vscode,bash&theme=light)](https://skillicons.dev)
 <br>
 
 #### 📈 GitHub Stats:
