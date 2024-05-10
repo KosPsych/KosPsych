@@ -19,7 +19,7 @@ I have a MEng from the National And Technical University of Athens and have work
 
 #### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyriakosPsa&theme=dark&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kospsych&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
