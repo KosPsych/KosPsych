@@ -7,7 +7,7 @@
 #### 💬 About Me:
 
 I'm Kostas, a data scientist based on Athens, Greece.
-I have a MEng from the National And Technical University of Athens and have worked as a data scientist/researcher in the industry.
+I have a MEng from the National And Technical University of Athens and have worked as a data scientist/researcher.
 
 - 🔭 I’m currently working on @synthetica
 - 🌱 I’m currently learning about Large Language Models (fine tuning, RAG etc.).
