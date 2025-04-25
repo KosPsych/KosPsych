@@ -9,7 +9,7 @@
 I'm Kostas, a data scientist based on Athens, Greece.
 I have a MEng from the National And Technical University of Athens and have worked as a data scientist/researcher.
 
-- 🔭 I’m currently working as a contractor on Elsevier
+- 🔭 I’m currently working as a contractor on [Elsevier](https://www.elsevier.com)
 - 🌱 I’m currently learning about Large Language Models (fine tuning, RAG, Visual language models etc.).
 
 #### 🛠️ Languages and Tools I use:
