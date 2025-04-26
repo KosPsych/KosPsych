@@ -10,17 +10,14 @@ I'm Kostas, a data scientist based on Athens, Greece.
 I have a MEng from the National And Technical University of Athens and have worked as a data scientist/researcher.
 
 - 🔭 I’m currently working as a contractor on [Elsevier](https://www.elsevier.com)
-- 🌱 I’m currently learning about Large Language Models (fine tuning, RAG, Visual language models etc.).
+- 🌱 I’m working with Large Language Models (fine tuning, RAG, Visual language models etc.).
 
 #### 🛠️ Languages and Tools I use:
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,tensorflow,opencv,flask,fastapi,docker,postgres,mysql,kubernetes,git,ubuntu,vscode,bash&theme=light)](https://skillicons.dev)
 <br>
 
-#### 📈 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kospsych&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+
 
 ---
 
